@@ -1,0 +1,6 @@
+Command line utility to modify
+the state of the NUM lock.
+Usage:
+ NUMLOCK.exe  SET
+ NUMLOCK.exe  RESET
+
